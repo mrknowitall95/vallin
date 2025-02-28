@@ -6,72 +6,95 @@
     <title>Vallin Hub</title>
     <style>
         body {
-            display: flex;
             font-family: Arial, sans-serif;
             margin: 0;
-        }
-        .sidebar {
-            width: 120px;
-            background: #333;
-            color: white;
-            padding: 20px;
-            height: 100vh;
-            position: fixed;
-            overflow-y: auto;
-        }
-        .sidebar ul {
-            list-style-type: none;
             padding: 0;
         }
-        .sidebar li {
-            margin: 10px 0;
+        .topbar {
+            background: #333;
+            color: white;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: relative;
         }
-        .sidebar a {
+        .menu-button {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 20px;
+            cursor: pointer;
+        }
+        .dropdown {
+            display: none;
+            position: absolute;
+            top: 50px;
+            left: 10px;
+            background: #444;
+            width: 200px;
+            border-radius: 5px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .dropdown ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .dropdown li {
+            padding: 10px;
+            border-bottom: 1px solid #555;
+        }
+        .dropdown a {
             color: white;
             text-decoration: none;
+            display: block;
         }
-        .nested {
-            margin-left: 20px;
+        .dropdown li:hover {
+            background: #555;
         }
-        .content {
-            margin-left: 160px;
-            padding: 20px;
-            flex-grow: 1;
+        .show {
+            display: block;
         }
     </style>
 </head>
 <body>
-    <div class="sidebar">
+
+    <div class="topbar">
+        <h1>Vallin Hub</h1>
+        <button class="menu-button" onclick="toggleMenu()">☰ Menu</button>
+    </div>
+
+    <div id="dropdownMenu" class="dropdown">
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="world.html">World</a>
-                <ul class="nested">
-                    <li><a href="history.html">History</a></li>
-                    <li><a href="places.html">Places</a></li>
-                    <li><a href="people.html">People</a></li>
-                    <li><a href="creatures.html">Creatures</a></li>
-                    <li><a href="cosmology.html">Cosmology</a></li>
-                </ul>
-            </li>
-            <li><a href="characters.html">Characters</a>
-                <ul class="nested">
-                    <li><a href="classes.html">Classes</a></li>
-                    <li><a href="races.html">Races</a></li>
-                    <li><a href="backgrounds.html">Backgrounds</a></li>
-                </ul>
-            </li>
-            <li><a href="game.html">Game</a>
-                <ul class="nested">
-                    <li><a href="items.html">Items</a></li>
-                    <li><a href="spells.html">Spells</a></li>
-                </ul>
-            </li>
+            <li><a href="world.html">World</a></li>
+            <li><a href="history.html">History</a></li>
+            <li><a href="places.html">Places</a></li>
+            <li><a href="people.html">People</a></li>
+            <li><a href="creatures.html">Creatures</a></li>
+            <li><a href="cosmology.html">Cosmology</a></li>
+            <li><a href="characters.html">Characters</a></li>
+            <li><a href="classes.html">Classes</a></li>
+            <li><a href="races.html">Races</a></li>
+            <li><a href="backgrounds.html">Backgrounds</a></li>
+            <li><a href="game.html">Game</a></li>
+            <li><a href="items.html">Items</a></li>
+            <li><a href="spells.html">Spells</a></li>
             <li><a href="maps.html">Maps</a></li>
         </ul>
     </div>
-    <div class="content">
+
+    <div class="content" style="padding: 20px;">
         <h1>Welcome to Vallin</h1>
-        <p>This is a repository for my homebrew Dnd 5e world, Vallin. If you are here, its probably because I know you and gave you this link. You can use all the information provided in the sidebar links to familiarize yourself with Vallin, and to help with creating a character.</p>
+        <p>This is a repository for my homebrew Dnd 5e world, Vallin. If you are here, it's probably because I know you and gave you this link. You can learn about the world using the menu above.</p>
     </div>
+
+    <script>
+        function toggleMenu() {
+            document.getElementById("dropdownMenu").classList.toggle("show");
+        }
+    </script>
+
 </body>
 </html>
