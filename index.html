@@ -49,6 +49,7 @@
         .dropdown li {
             padding: 10px;
             border-bottom: 1px solid #555;
+            cursor: pointer;
         }
         .dropdown a {
             color: white;
@@ -61,43 +62,133 @@
         .show {
             display: block;
         }
+        .content-section {
+            display: none;
+            padding: 20px;
+        }
+        #home {
+            display: block; /* Show home by default */
+        }
     </style>
 </head>
 <body>
 
     <div class="topbar">
-        <button class="menu-button" onclick="toggleMenu()">☰ Menu</button> <!-- Button aligned left -->
+        <button class="menu-button" onclick="toggleMenu()">☰ Menu</button> <!-- Menu button on the left -->
         <h1 class="title">Vallin Hub</h1> <!-- Title centered -->
     </div>
 
     <div id="dropdownMenu" class="dropdown">
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="world.html">World</a></li>
-            <li><a href="history.html">History</a></li>
-            <li><a href="places.html">Places</a></li>
-            <li><a href="people.html">People</a></li>
-            <li><a href="creatures.html">Creatures</a></li>
-            <li><a href="cosmology.html">Cosmology</a></li>
-            <li><a href="characters.html">Characters</a></li>
-            <li><a href="classes.html">Classes</a></li>
-            <li><a href="races.html">Races</a></li>
-            <li><a href="backgrounds.html">Backgrounds</a></li>
-            <li><a href="game.html">Game</a></li>
-            <li><a href="items.html">Items</a></li>
-            <li><a href="spells.html">Spells</a></li>
-            <li><a href="maps.html">Maps</a></li>
+            <li onclick="showSection('home')">Home</li>
+            <li onclick="showSection('world')">World</li>
+            <li onclick="showSection('history')">History</li>
+            <li onclick="showSection('places')">Places</li>
+            <li onclick="showSection('people')">People</li>
+            <li onclick="showSection('creatures')">Creatures</li>
+            <li onclick="showSection('cosmology')">Cosmology</li>
+            <li onclick="showSection('characters')">Characters</li>
+            <li onclick="showSection('classes')">Classes</li>
+            <li onclick="showSection('races')">Races</li>
+            <li onclick="showSection('backgrounds')">Backgrounds</li>
+            <li onclick="showSection('game')">Game</li>
+            <li onclick="showSection('items')">Items</li>
+            <li onclick="showSection('spells')">Spells</li>
+            <li onclick="showSection('maps')">Maps</li>
         </ul>
     </div>
 
-    <div class="content" style="padding: 20px;">
+    <div id="home" class="content-section">
         <h1>Welcome to Vallin</h1>
         <p>This is a repository for my homebrew Dnd 5e world, Vallin. If you are here, it's probably because I know you and gave you this link. You can learn about the world using the menu above.</p>
+    </div>
+
+    <div id="world" class="content-section">
+        <h1>World</h1>
+        <p>This section contains information about the world of Vallin.</p>
+    </div>
+
+    <div id="history" class="content-section">
+        <h1>History</h1>
+        <p>The history of Vallin spans many centuries...</p>
+    </div>
+
+    <div id="places" class="content-section">
+        <h1>Places</h1>
+        <p>Various locations of Vallin.</p>
+    </div>
+
+    <div id="people" class="content-section">
+        <h1>People</h1>
+        <p>Notable figures and inhabitants of Vallin.</p>
+    </div>
+
+    <div id="creatures" class="content-section">
+        <h1>Creatures</h1>
+        <p>Monsters and beings found in Vallin.</p>
+    </div>
+
+    <div id="cosmology" class="content-section">
+        <h1>Cosmology</h1>
+        <p>The planes and cosmic structure of Vallin.</p>
+    </div>
+
+    <div id="characters" class="content-section">
+        <h1>Characters</h1>
+        <p>Details on player characters and NPCs.</p>
+    </div>
+
+    <div id="classes" class="content-section">
+        <h1>Classes</h1>
+        <p>Available classes and unique mechanics.</p>
+    </div>
+
+    <div id="races" class="content-section">
+        <h1>Races</h1>
+        <p>The various playable races.</p>
+    </div>
+
+    <div id="backgrounds" class="content-section">
+        <h1>Backgrounds</h1>
+        <p>Character backgrounds and origins.</p>
+    </div>
+
+    <div id="game" class="content-section">
+        <h1>Game</h1>
+        <p>Mechanics and homebrew rules.</p>
+    </div>
+
+    <div id="items" class="content-section">
+        <h1>Items</h1>
+        <p>Magical and mundane items.</p>
+    </div>
+
+    <div id="spells" class="content-section">
+        <h1>Spells</h1>
+        <p>Magic spells and abilities.</p>
+    </div>
+
+    <div id="maps" class="content-section">
+        <h1>Maps</h1>
+        <p>Cartography of Vallin.</p>
     </div>
 
     <script>
         function toggleMenu() {
             document.getElementById("dropdownMenu").classList.toggle("show");
+        }
+
+        function showSection(sectionId) {
+            // Hide all sections
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.style.display = 'none';
+            });
+
+            // Show the selected section
+            document.getElementById(sectionId).style.display = 'block';
+
+            // Hide the menu after selection
+            document.getElementById("dropdownMenu").classList.remove("show");
         }
     </script>
 
