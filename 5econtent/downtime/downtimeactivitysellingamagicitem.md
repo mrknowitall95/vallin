@@ -43,4 +43,3 @@ The main risk in selling a magic item lies in attracting thieves and anyone else
 *Might involve a rival
 
 ---
-

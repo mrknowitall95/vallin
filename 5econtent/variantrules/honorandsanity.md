@@ -1,4 +1,4 @@
-﻿## New Ability Scores: Honor and Sanity
+﻿## Honor and Sanity
 
 If you're running a campaign shaped by a strict code of honor or the constant risk of insanity, consider adding one or both these new ability scores: Honor and Sanity.
 

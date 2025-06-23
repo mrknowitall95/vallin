@@ -130,52 +130,6 @@ Comprehensive references for:
 
 [Feylost](./5econtent/backgrounds/feylost.md)
 
-[Surprised](./5econtent/conditions/surprised.md)
-
-[Concentration](./5econtent/conditions/concentration.md)
-
-[Blinding Sickness](./5econtent/conditions/blindingsickness.md)
-
-[Filth Fever](./5econtent/conditions/filthfever.md)
-
-[Flesh Rot](./5econtent/conditions/fleshrot.md)
-
-[Mindfire](./5econtent/conditions/mindfire.md)
-
-[Seizure](./5econtent/conditions/seizure.md)
-
-[Slimy Doom](./5econtent/conditions/slimydoom.md)
-
-[Blinded](./5econtent/conditions/blinded.md)
-
-[Charmed](./5econtent/conditions/charmed.md)
-
-[Deafened](./5econtent/conditions/deafened.md)
-
-[Frightened](./5econtent/conditions/frightened.md)
-
-[Grappled](./5econtent/conditions/grappled.md)
-
-[Incapacitated](./5econtent/conditions/incapacitated.md)
-
-[Exhaustion](./5econtent/conditions/exhaustion.md)
-
-[Invisible](./5econtent/conditions/invisible.md)
-
-[Paralyzed](./5econtent/conditions/paralyzed.md)
-
-[Petrified](./5econtent/conditions/petrified.md)
-
-[Poisoned](./5econtent/conditions/poisoned.md)
-
-[Prone](./5econtent/conditions/prone.md)
-
-[Restrained](./5econtent/conditions/restrained.md)
-
-[Stunned](./5econtent/conditions/stunned.md)
-
-[Unconscious](./5econtent/conditions/unconscious.md)
-
 [Aerdrie Faenya](./5econtent/deities/aerdriefaenya.md)
 
 [Akadi, Goddess of Air](./5econtent/deities/akadigoddessofair.md)
@@ -296,6 +250,26 @@ Comprehensive references for:
 
 [Yondalla](./5econtent/deities/yondalla.md)
 
+[Downtime Activity: Research](./5econtent/downtime/downtimeactivityresearch.md)
+
+[Downtime Activity: Religious Service](./5econtent/downtime/downtimeactivityreligiousservice.md)
+
+[Downtime Activity: Relaxation](./5econtent/downtime/downtimeactivityrelaxation.md)
+
+[Downtime Activity: Gambling](./5econtent/downtime/downtimeactivitygambling.md)
+
+[Downtime Activity: Crime](./5econtent/downtime/downtimeactivitycrime.md)
+
+[Downtime Activity: Crafting an Item](./5econtent/downtime/downtimeactivitycraftinganitem.md)
+
+[Downtime Activity: Carousing](./5econtent/downtime/downtimeactivitycarousing.md)
+
+[Downtime Activity: Work](./5econtent/downtime/downtimeactivitywork.md)
+
+[Downtime Activity: Training](./5econtent/downtime/downtimeactivitytraining.md)
+
+[Downtime Activity: Selling a Magic Item](./5econtent/downtime/downtimeactivitysellingamagicitem.md)
+
 [Human](./5econtent/races/human.md)
 
 [Half-Elf](./5econtent/races/halfelf.md)
@@ -365,316 +339,6 @@ Comprehensive references for:
 [Genasi (Water)](./5econtent/races/genasiwater.md)
 
 [Changeling](./5econtent/races/changeling.md)
-
-[Bangers and Smash](./5econtent/recipes/bangersandsmash.md)
-
-[Black Pudding](./5econtent/recipes/blackpudding.md)
-
-[Corned Beef and Cabbage](./5econtent/recipes/cornedbeefandcabbage.md)
-
-[Delzoun Tide-Me-Overs](./5econtent/recipes/delzountidemeovers.md)
-
-[Dwarven Flatbread](./5econtent/recipes/dwarvenflatbread.md)
-
-[Gully Dwarf Homestyle Porridge](./5econtent/recipes/gullydwarfhomestyleporridge.md)
-
-[Miner's Pie](./5econtent/recipes/minerspie.md)
-
-[Orange Mountain Duck](./5econtent/recipes/orangemountainduck.md)
-
-[Plate-of-Gold](./5econtent/recipes/plateofgold.md)
-
-[Potato Leek Soup](./5econtent/recipes/potatoleeksoup.md)
-
-[Smoked Sausages and Kraut with Dwarven Mustard](./5econtent/recipes/smokedsausagesandkrautwithdwarvenmustard.md)
-
-[Underdark Lotus with Fire Lichen Spread](./5econtent/recipes/underdarklotuswithfirelichenspread.md)
-
-[Chultan Zombie](./5econtent/recipes/chultanzombie.md)
-
-[Cocoa Broth](./5econtent/recipes/cocoabroth.md)
-
-[Delayed Blast Fireball](./5econtent/recipes/delayedblastfireball.md)
-
-[Dwarven Mulled Wine](./5econtent/recipes/dwarvenmulledwine.md)
-
-[Evermead](./5econtent/recipes/evermead.md)
-
-[Goodberry Blend](./5econtent/recipes/goodberryblend.md)
-
-[Hot Spiced Cider](./5econtent/recipes/hotspicedcider.md)
-
-[Mushroom Tea](./5econtent/recipes/mushroomtea.md)
-
-[Par-Salian's Tea](./5econtent/recipes/parsalianstea.md)
-
-[Potion of Restoration](./5econtent/recipes/potionofrestoration.md)
-
-[Rollrum](./5econtent/recipes/rollrum.md)
-
-[The Mindflayer](./5econtent/recipes/themindflayer.md)
-
-[Zzar](./5econtent/recipes/zzar.md)
-
-[Cherrybread](./5econtent/recipes/cherrybread.md)
-
-[Dragon Salmon](./5econtent/recipes/dragonsalmon.md)
-
-[Drow Mushroom Steaks](./5econtent/recipes/drowmushroomsteaks.md)
-
-[Elven Bread](./5econtent/recipes/elvenbread.md)
-
-[Elven Marruth](./5econtent/recipes/elvenmarruth.md)
-
-[Feywild Eggs](./5econtent/recipes/feywildeggs.md)
-
-[Greenspear Bundles in Bacon](./5econtent/recipes/greenspearbundlesinbacon.md)
-
-[High Harvest Puree](./5econtent/recipes/highharvestpuree.md)
-
-[Meal's End](./5econtent/recipes/mealsend.md)
-
-[Moonshae Seafood Rice](./5econtent/recipes/moonshaeseafoodrice.md)
-
-[Qualinesti Vegetable Stew](./5econtent/recipes/qualinestivegetablestew.md)
-
-[Quith-pa](./5econtent/recipes/quithpa.md)
-
-[Wood Elf Forest Salad](./5econtent/recipes/woodelfforestsalad.md)
-
-[Chicken-Something Dumplings](./5econtent/recipes/chickensomethingdumplings.md)
-
-[Community Cheeses](./5econtent/recipes/communitycheeses.md)
-
-[Everything Soup](./5econtent/recipes/everythingsoup.md)
-
-[Halfling Oatmeal Sweet Nibbles](./5econtent/recipes/halflingoatmealsweetnibbles.md)
-
-[Heartlands Rose Apple and Blackberry Pie](./5econtent/recipes/heartlandsroseappleandblackberrypie.md)
-
-[Hogs in Bedrolls](./5econtent/recipes/hogsinbedrolls.md)
-
-[Honey-Drizzled Cream Puffs](./5econtent/recipes/honeydrizzledcreampuffs.md)
-
-[Honeyed Ham with Pineapple Gravy](./5econtent/recipes/honeyedhamwithpineapplegravy.md)
-
-[Lluirwood Salad](./5econtent/recipes/lluirwoodsalad.md)
-
-[Melted Cheeses with Chunky Tomato Broth](./5econtent/recipes/meltedcheeseswithchunkytomatobroth.md)
-
-[Stuffed Egg-Battered Toast](./5econtent/recipes/stuffedeggbatteredtoast.md)
-
-[Amphail Braised Beef](./5econtent/recipes/amphailbraisedbeef.md)
-
-[Castle Amber Onion Soup](./5econtent/recipes/castleamberonionsoup.md)
-
-[Dark Molasses Nutbread](./5econtent/recipes/darkmolassesnutbread.md)
-
-[Gingerbread Man](./5econtent/recipes/gingerbreadman.md)
-
-[Gurdats](./5econtent/recipes/gurdats.md)
-
-[Hand Pies](./5econtent/recipes/handpies.md)
-
-[Hommlet Golden Brown Roasted Turkey with Sausage Stuffing and Drippings](./5econtent/recipes/hommletgoldenbrownroastedturkeywithsausagestuffinganddrippings.md)
-
-[Iron Rations](./5econtent/recipes/ironrations.md)
-
-[Kara-Tur Noodles](./5econtent/recipes/karaturnoodles.md)
-
-[Otik's Skillet-Fried Spiced Potatoes](./5econtent/recipes/otiksskilletfriedspicedpotatoes.md)
-
-[Pan-Fried Knucklehead Trout](./5econtent/recipes/panfriedknuckleheadtrout.md)
-
-[Reghed Venison Pot Roast](./5econtent/recipes/reghedvenisonpotroast.md)
-
-[Sembian Honey-Glazed Rothé Ribs](./5econtent/recipes/sembianhoneyglazedrotheribs.md)
-
-[Sword Coast Seafood Bouillabaisse](./5econtent/recipes/swordcoastseafoodbouillabaisse.md)
-
-[Tavern Steak](./5econtent/recipes/tavernsteak.md)
-
-[Traveler's Stew](./5econtent/recipes/travelersstew.md)
-
-[Trolltide Candied Apples](./5econtent/recipes/trolltidecandiedapples.md)
-
-[Vedbread](./5econtent/recipes/vedbread.md)
-
-[Yawning Portal Buttermilk Biscuits](./5econtent/recipes/yawningportalbuttermilkbiscuits.md)
-
-[Beluir Poached Salmon](./5econtent/recipes/beluirpoachedsalmon.md)
-
-[Black Lotus Root](./5econtent/recipes/blacklotusroot.md)
-
-[Blood of Vol](./5econtent/recipes/bloodofvol.md)
-
-[Breaded Bird Cutlets](./5econtent/recipes/breadedbirdcutlets.md)
-
-[Green Dragon Blackbread Muffins](./5econtent/recipes/greendragonblackbreadmuffins.md)
-
-[Halfling Game Birds](./5econtent/recipes/halflinggamebirds.md)
-
-[Ornabra](./5econtent/recipes/ornabra.md)
-
-[Ray of Frost](./5econtent/recipes/rayoffrost.md)
-
-[Ruby Cordial](./5econtent/recipes/rubycordial.md)
-
-[Thrakel-Seared Beef in Red Sauce](./5econtent/recipes/thrakelsearedbeefinredsauce.md)
-
-[Vada's Vanilla Buns](./5econtent/recipes/vadasvanillabuns.md)
-
-[Barovian Garlic Bread](./5econtent/recipes/baroviangarlicbread.md)
-
-[Fig Cakes](./5econtent/recipes/figcakes.md)
-
-[Green Onion Pancakes](./5econtent/recipes/greenonionpancakes.md)
-
-[Halfling Iron Rations](./5econtent/recipes/halflingironrations.md)
-
-[Honey Milk](./5econtent/recipes/honeymilk.md)
-
-[Purple Grapemash No. 3](./5econtent/recipes/purplegrapemashno.3.md)
-
-[Quij's Plate](./5econtent/recipes/quijsplate.md)
-
-[Tavern Crickets](./5econtent/recipes/taverncrickets.md)
-
-[Two Hares Inn Rabbit Stew](./5econtent/recipes/twoharesinnrabbitstew.md)
-
-[Whole Roast Boar](./5econtent/recipes/wholeroastboar.md)
-
-[Bacon-Wrapped Smoked Mussels](./5econtent/recipes/baconwrappedsmokedmussels.md)
-
-[Beer Bread](./5econtent/recipes/beerbread.md)
-
-[Chickpea and Spicy Sausage Soup](./5econtent/recipes/chickpeaandspicysausagesoup.md)
-
-[Chirper's Sugar Biscuits](./5econtent/recipes/chirperssugarbiscuits.md)
-
-[Emerald Chicken](./5econtent/recipes/emeraldchicken.md)
-
-[Fire-Wrapped Golden Fish](./5econtent/recipes/firewrappedgoldenfish.md)
-
-[Fried Bread and Spices](./5econtent/recipes/friedbreadandspices.md)
-
-[Harmonious Barracks Meatloaf](./5econtent/recipes/harmoniousbarracksmeatloaf.md)
-
-[Kaeth](./5econtent/recipes/kaeth.md)
-
-[Sensate Palate Cleanser](./5econtent/recipes/sensatepalatecleanser.md)
-
-[Silverfruit Pie](./5econtent/recipes/silverfruitpie.md)
-
-[Boar Hock Soup](./5econtent/recipes/boarhocksoup.md)
-
-[Cloaks](./5econtent/recipes/cloaks.md)
-
-[Irlymeyer's Dragonfire Punch](./5econtent/recipes/irlymeyersdragonfirepunch.md)
-
-[Kender Loaf](./5econtent/recipes/kenderloaf.md)
-
-[Kender Stumblenoodles](./5econtent/recipes/kenderstumblenoodles.md)
-
-[Kendermore Cobbler](./5econtent/recipes/kendermorecobbler.md)
-
-[Plate of Silver](./5econtent/recipes/plateofsilver.md)
-
-[Salbread](./5econtent/recipes/salbread.md)
-
-[Stuffed Trout](./5econtent/recipes/stuffedtrout.md)
-
-[Tarsis-Style Shrimp](./5econtent/recipes/tarsisstyleshrimp.md)
-
-[Tika's Honey Mead](./5econtent/recipes/tikashoneymead.md)
-
-[Brackleberry Jam](./5econtent/recipes/brackleberryjam.md)
-
-[Eldeen Banquet](./5econtent/recipes/eldeenbanquet.md)
-
-[Elfharrow Baked Goat Cheese](./5econtent/recipes/elfharrowbakedgoatcheese.md)
-
-[Elven Flatbread](./5econtent/recipes/elvenflatbread.md)
-
-[Elverquisst](./5econtent/recipes/elverquisst.md)
-
-[Fey Fritters](./5econtent/recipes/feyfritters.md)
-
-[Harengon Coffee Carrots](./5econtent/recipes/harengoncoffeecarrots.md)
-
-[Saerloonian Glowfire](./5econtent/recipes/saerloonianglowfire.md)
-
-[Seelie Court Cheese and Potato Soup](./5econtent/recipes/seeliecourtcheeseandpotatosoup.md)
-
-[Sprucebark Quaff](./5econtent/recipes/sprucebarkquaff.md)
-
-[Duergar Smoked Herring](./5econtent/recipes/duergarsmokedherring.md)
-
-[Fried Soy with Vegetables](./5econtent/recipes/friedsoywithvegetables.md)
-
-[Green Ice Rime](./5econtent/recipes/greenicerime.md)
-
-[Loaf Pudding](./5econtent/recipes/loafpudding.md)
-
-[Spiced Pork and Orange Peppers](./5econtent/recipes/spicedporkandorangepeppers.md)
-
-[Steak of the Deep](./5econtent/recipes/steakofthedeep.md)
-
-[Tamarind Balls](./5econtent/recipes/tamarindballs.md)
-
-[Tavern Noodles](./5econtent/recipes/tavernnoodles.md)
-
-[Tears of Selûne](./5econtent/recipes/tearsofselune.md)
-
-[Trencher Bread](./5econtent/recipes/trencherbread.md)
-
-[Undermountain Alurlyath](./5econtent/recipes/undermountainalurlyath.md)
-
-[Butternut Beer](./5econtent/recipes/butternutbeer.md)
-
-[Chopforest](./5econtent/recipes/chopforest.md)
-
-[Goldenstars](./5econtent/recipes/goldenstars.md)
-
-[Hot River Crab Bites](./5econtent/recipes/hotrivercrabbites.md)
-
-[Laumberry Pie](./5econtent/recipes/laumberrypie.md)
-
-[Mingari-Spiced Owlbear Milk](./5econtent/recipes/mingarispicedowlbearmilk.md)
-
-[Neverwinter Nectar](./5econtent/recipes/neverwinternectar.md)
-
-[Onion Loaf](./5econtent/recipes/onionloaf.md)
-
-[Rothé Steak](./5econtent/recipes/rothesteak.md)
-
-[Sornstag](./5econtent/recipes/sornstag.md)
-
-[Sour Cream-Walnut Cake](./5econtent/recipes/sourcreamwalnutcake.md)
-
-[Talyth](./5econtent/recipes/talyth.md)
-
-[Orc Bacon](./5econtent/recipes/orcbacon.md)
-
-[Arkhan the Cruel's Flame-Roasted Halfling Chili](./5econtent/recipes/arkhanthecruelsflameroastedhalflingchili.md)
-
-[Barovian Butterscotch Pudding](./5econtent/recipes/barovianbutterscotchpudding.md)
-
-[Braised Lamb](./5econtent/recipes/braisedlamb.md)
-
-[Bytopian Shepherd's Bread](./5econtent/recipes/bytopianshepherdsbread.md)
-
-[Deep Gnome Trillimac Pods](./5econtent/recipes/deepgnometrillimacpods.md)
-
-[Fire-Spiced Abyssal Chicken Kebabs](./5econtent/recipes/firespicedabyssalchickenkebabs.md)
-
-[Fried Fingers](./5econtent/recipes/friedfingers.md)
-
-[Hardbuckler Stew](./5econtent/recipes/hardbucklerstew.md)
-
-[Surrogate Steaks](./5econtent/recipes/surrogatesteaks.md)
-
-[Twice-Baked Cockatrice Wings](./5econtent/recipes/twicebakedcockatricewings.md)
 
 [Acid Splash](./5econtent/spells/acidsplash.md)
 
@@ -1856,28 +1520,6 @@ Comprehensive references for:
 
 [War Magic](./5econtent/subclasses/wizard/warmagic.md)
 
-[Shared Campaign Variant Rules](./5econtent/variantrules/sharedcampaignvariantrules.md)
-
-[Downtime Activity: Research](./5econtent/variantrules/downtimeactivityresearch.md)
-
-[Downtime Activity: Religious Service](./5econtent/variantrules/downtimeactivityreligiousservice.md)
-
-[Downtime Activity: Relaxation](./5econtent/variantrules/downtimeactivityrelaxation.md)
-
-[Downtime Activity: Gambling](./5econtent/variantrules/downtimeactivitygambling.md)
-
-[Downtime Activity: Crime](./5econtent/variantrules/downtimeactivitycrime.md)
-
-[Downtime Activity: Crafting an Item](./5econtent/variantrules/downtimeactivitycraftinganitem.md)
-
-[Downtime Activity: Carousing](./5econtent/variantrules/downtimeactivitycarousing.md)
-
-[Downtime Activity: Work](./5econtent/variantrules/downtimeactivitywork.md)
-
-[Downtime Activity: Training](./5econtent/variantrules/downtimeactivitytraining.md)
-
-[Downtime Activity: Selling a Magic Item](./5econtent/variantrules/downtimeactivitysellingamagicitem.md)
-
 [Sleep](./5econtent/variantrules/sleep.md)
 
 [Parleying with Monsters](./5econtent/variantrules/parleyingwithmonsters.md)
@@ -1900,7 +1542,7 @@ Comprehensive references for:
 
 [Proficiency Dice](./5econtent/variantrules/proficiencydice.md)
 
-[New Ability Scores: Honor and Sanity](./5econtent/variantrules/newabilityscoreshonorandsanity.md)
+[Honor and Sanity](./5econtent/variantrules/honorandsanity.md)
 
 [Fear and Horror](./5econtent/variantrules/fearandhorror.md)
 
