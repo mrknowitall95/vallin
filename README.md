@@ -10,66 +10,6 @@ Comprehensive references for:
 
 - A character-world guide. Learn about all the cultures, history, geography, and lore that Vallin has to offer! Or, just get the specific parts relevant to a race, background, and class for building a character and developing their backstory.
 
-[Don or Doff a Shield](./5econtent/actions/donordoffashield.md)
-
-[Other Activity](./5econtent/actions/otheractivity.md)
-
-[Attack](./5econtent/actions/attack.md)
-
-[Cast a Spell](./5econtent/actions/castaspell.md)
-
-[Dash](./5econtent/actions/dash.md)
-
-[Disengage](./5econtent/actions/disengage.md)
-
-[Dodge](./5econtent/actions/dodge.md)
-
-[Help](./5econtent/actions/help.md)
-
-[Hide](./5econtent/actions/hide.md)
-
-[Improvising an Action](./5econtent/actions/improvisinganaction.md)
-
-[Ready](./5econtent/actions/ready.md)
-
-[Search](./5econtent/actions/search.md)
-
-[Use an Object](./5econtent/actions/useanobject.md)
-
-[Escape a Grapple](./5econtent/actions/escapeagrapple.md)
-
-[Grapple](./5econtent/actions/grapple.md)
-
-[Opportunity Attack](./5econtent/actions/opportunityattack.md)
-
-[Shove](./5econtent/actions/shove.md)
-
-[Two-Weapon Fighting](./5econtent/actions/twoweaponfighting.md)
-
-[Stabilize a Creature](./5econtent/actions/stabilizeacreature.md)
-
-[End Concentration](./5econtent/actions/endconcentration.md)
-
-[Waking Someone](./5econtent/actions/wakingsomeone.md)
-
-[Identify a Spell](./5econtent/actions/identifyaspell.md)
-
-[Activate an Item](./5econtent/actions/activateanitem.md)
-
-[Healing Surge](./5econtent/actions/healingsurge.md)
-
-[Climb onto a Bigger Creature](./5econtent/actions/climbontoabiggercreature.md)
-
-[Disarm](./5econtent/actions/disarm.md)
-
-[Mark](./5econtent/actions/mark.md)
-
-[Overrun](./5econtent/actions/overrun.md)
-
-[Shove Aside](./5econtent/actions/shoveaside.md)
-
-[Tumble](./5econtent/actions/tumble.md)
-
 [Charlatan](./5econtent/backgrounds/charlatan.md)
 
 [Criminal](./5econtent/backgrounds/criminal.md)
@@ -249,6 +189,46 @@ Comprehensive references for:
 [Vhaeraun](./5econtent/deities/vhaeraun.md)
 
 [Yondalla](./5econtent/deities/yondalla.md)
+
+[Parleying with Monsters](./5econtent/dmtools/parleyingwithmonsters.md)
+
+[Renown](./5econtent/dmtools/renown.md)
+
+[Planar Effects](./5econtent/dmtools/planareffects.md)
+
+[Loyalty](./5econtent/dmtools/loyalty.md)
+
+[Morale](./5econtent/dmtools/morale.md)
+
+[Massive Damage](./5econtent/dmtools/massivedamage.md)
+
+[Superior Ship Upgrades](./5econtent/dmtools/superiorshipupgrades.md)
+
+[Ocean Environs](./5econtent/dmtools/oceanenvirons.md)
+
+[Encounters at Sea](./5econtent/dmtools/encountersatsea.md)
+
+[Random Ships](./5econtent/dmtools/randomships.md)
+
+[Downtime Activity: Training to Gain Levels](./5econtent/dmtools/downtimeactivitytrainingtogainlevels.md)
+
+[Downtime Activity: Sowing Rumors](./5econtent/dmtools/downtimeactivitysowingrumors.md)
+
+[Downtime Activity: Selling Magic Items](./5econtent/dmtools/downtimeactivitysellingmagicitems.md)
+
+[Downtime Activity: Running a Business](./5econtent/dmtools/downtimeactivityrunningabusiness.md)
+
+[Downtime Activity: Performing Sacred Rites](./5econtent/dmtools/downtimeactivityperformingsacredrites.md)
+
+[Downtime Activity: Gaining Renown](./5econtent/dmtools/downtimeactivitygainingrenown.md)
+
+[Downtime Activity: Crafting a Magic Item](./5econtent/dmtools/downtimeactivitycraftingamagicitem.md)
+
+[Downtime Activity: Carousing](./5econtent/dmtools/downtimeactivitycarousing.md)
+
+[Downtime Activity: Building a Stronghold](./5econtent/dmtools/downtimeactivitybuildingastronghold.md)
+
+[Injuries](./5econtent/dmtools/injuries.md)
 
 [Downtime Activity: Research](./5econtent/downtime/downtimeactivityresearch.md)
 
@@ -1522,73 +1502,23 @@ Comprehensive references for:
 
 [Sleep](./5econtent/variantrules/sleep.md)
 
-[Parleying with Monsters](./5econtent/variantrules/parleyingwithmonsters.md)
-
-[Renown](./5econtent/variantrules/renown.md)
-
-[Planar Effects](./5econtent/variantrules/planareffects.md)
-
-[Loyalty](./5econtent/variantrules/loyalty.md)
-
-[More Difficult Identification](./5econtent/variantrules/moredifficultidentification.md)
+[Magic Item Identification](./5econtent/variantrules/magicitemidentification.md)
 
 [Mixing Potions](./5econtent/variantrules/mixingpotions.md)
 
-[Wands That Don't Recharge](./5econtent/variantrules/wandsthatdontrecharge.md)
+[Wands Don't Recharge](./5econtent/variantrules/wandsdontrecharge.md)
 
-[Automatic Success](./5econtent/variantrules/automaticsuccess.md)
+[Fear, Horror, and Madness](./5econtent/variantrules/fearhorrorandmadness.md)
 
-[Madness](./5econtent/variantrules/madness.md)
-
-[Proficiency Dice](./5econtent/variantrules/proficiencydice.md)
-
-[Honor and Sanity](./5econtent/variantrules/honorandsanity.md)
-
-[Fear and Horror](./5econtent/variantrules/fearandhorror.md)
-
-[Healing](./5econtent/variantrules/healing.md)
-
-[Action Options](./5econtent/variantrules/actionoptions.md)
-
-[Injuries](./5econtent/variantrules/injuries.md)
-
-[Massive Damage](./5econtent/variantrules/massivedamage.md)
-
-[Morale](./5econtent/variantrules/morale.md)
+[Sanity](./5econtent/variantrules/sanity.md)
 
 [Spell Points](./5econtent/variantrules/spellpoints.md)
 
 [Ship Stat Blocks](./5econtent/variantrules/shipstatblocks.md)
 
-[Superior Ship Upgrades](./5econtent/variantrules/superiorshipupgrades.md)
-
-[Ocean Environs](./5econtent/variantrules/oceanenvirons.md)
-
-[Encounters at Sea](./5econtent/variantrules/encountersatsea.md)
-
-[Random Ships](./5econtent/variantrules/randomships.md)
-
 [Familiars](./5econtent/variantrules/familiars.md)
 
 [Encumbrance](./5econtent/variantrules/encumbrance.md)
-
-[Downtime Activity: Training to Gain Levels](./5econtent/variantrules/downtimeactivitytrainingtogainlevels.md)
-
-[Downtime Activity: Sowing Rumors](./5econtent/variantrules/downtimeactivitysowingrumors.md)
-
-[Downtime Activity: Selling Magic Items](./5econtent/variantrules/downtimeactivitysellingmagicitems.md)
-
-[Downtime Activity: Running a Business](./5econtent/variantrules/downtimeactivityrunningabusiness.md)
-
-[Downtime Activity: Performing Sacred Rites](./5econtent/variantrules/downtimeactivityperformingsacredrites.md)
-
-[Downtime Activity: Gaining Renown](./5econtent/variantrules/downtimeactivitygainingrenown.md)
-
-[Downtime Activity: Crafting a Magic Item](./5econtent/variantrules/downtimeactivitycraftingamagicitem.md)
-
-[Downtime Activity: Carousing](./5econtent/variantrules/downtimeactivitycarousing.md)
-
-[Downtime Activity: Building a Stronghold](./5econtent/variantrules/downtimeactivitybuildingastronghold.md)
 
 [Warship](./5econtent/vehicle/warship.md)
 

@@ -16,7 +16,7 @@ When you finish a long rest during which you slept in medium or heavy armor, you
 
 #### Going without a Long Rest
 
-A long rest is never mandatory, but going without sleep does have its consequences. If you want to account for the effects of sleep deprivation on characters and creatures, use these rules.
+A long rest is never mandatory, but going without sleep does have its consequences.
 
 Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion.
 

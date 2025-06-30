@@ -18,3 +18,6 @@ Once the estate is secured, a character needs access to building materials and l
 | Temple                  |         50,000 gp |          400 days |
 | Tower, fortified        |         15,000 gp |          100 days |
 | Trading post            |          5,000 gp |           60 days |
+
+---
+
