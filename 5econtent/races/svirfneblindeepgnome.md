@@ -1,4 +1,4 @@
-﻿## Deep Gnome (Svirfneblin)
+﻿## Svirfneblin (Deep Gnome)
 
 - **Ability Scores.** Intelligence +2; Dexterity +1
 - **Size.** Small
@@ -19,5 +19,4 @@
 ***Stone Camouflage.*** You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.
 
 ---
-
 

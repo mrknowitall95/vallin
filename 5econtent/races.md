@@ -307,6 +307,29 @@ When you create a device, choose one of the following options:
 ---
 
 
+## Orc
+
+- **Ability Scores.** Strength +2; Constitution +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Orcs reach adulthood at age 12 and live up to 50 years.
+
+***Size.*** Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Aggressive.*** As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+
+***Primal Intuition.*** You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Languages.*** You can speak, read, and write Common and Orc.
+
+---
+
+
 ## Aasimar
 
 - **Ability Scores.** Charisma +2
@@ -339,6 +362,189 @@ When you create a device, choose one of the following options:
 
 
 
+## Goblin
+
+- **Ability Scores.** Dexterity +2; Constitution +1
+- **Size.** Small
+- **Speed.** 30 ft.
+
+***Age.*** Goblins reach adulthood at age 8 and live up to 60 years.
+
+***Size.*** Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
+
+***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
+
+***Languages.*** You can speak, read, and write Common and Goblin.
+
+---
+
+
+## Goliath
+
+- **Ability Scores.** Strength +2; Constitution +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
+
+***Size.*** Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
+
+***Natural Athlete.*** You have proficiency in the Athletics skill.
+
+***Stone's Endurance.*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Mountain Born.*** You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet.
+
+***Languages.*** You can speak, read, and write Common and Giant.
+
+---
+
+
+## Bugbear
+
+- **Ability Scores.** Strength +2; Dexterity +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Bugbears reach adulthood at age 16 and live up to 80 years.
+
+***Size.*** Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Sneaky.*** You are proficient in the Stealth skill.
+
+***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+
+***Languages.*** You can speak, read, and write Common and Goblin.
+
+---
+
+## Half-Orc
+
+- **Ability Scores.** Strength +2; Constitution +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
+
+***Size.*** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
+
+***Darkvision.*** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Menacing.*** You gain proficiency in the Intimidation skill.
+
+***Relentless Endurance.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+
+***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+
+***Languages.*** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+
+---
+
+
+## Hobgoblin
+
+- **Ability Scores.** Constitution +2; Intelligence +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+
+***Size.*** Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Martial Training.*** You are proficient with two martial weapons of your choice and with light armor.
+
+***Saving Face.*** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
+
+***Languages.*** You can speak, read, and write Common and Goblin.
+
+---
+
+
+
+## Lizardfolk
+
+- **Ability Scores.** Constitution +2; Wisdom +1
+- **Size.** Medium
+- **Speed.** 30 ft., swim 30 ft.
+
+***Age.*** Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
+
+***Size.*** Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium.
+
+***Swim Speed.*** You have a swimming speed of 30 feet.
+
+***Bite.*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+
+***Cunning Artisan.*** As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a *shield*, a *club*, a *javelin*, or 1d4 *darts* or *blowgun needles*. To use this trait, you need a blade, such as a *dagger*, or appropriate artisan's tools, such as *leatherworker's tools*.
+
+***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.
+
+***Hunter's Lore.*** You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.
+
+***Natural Armor.*** You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+
+***Hungry Jaws.*** In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest.
+
+***Languages.*** You can speak, read, and write Common and Draconic.
+
+---
+
+## Firbolg
+
+- **Ability Scores.** Wisdom +2; Strength +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
+
+***Size.*** Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium.
+
+***Firbolg Magic.*** You can cast *detect magic* and *disguise self* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of *disguise self*, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+
+***Hidden Step.*** As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Speech of Beast and Leaf.*** You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+
+***Languages.*** You can speak, read, and write Common, Elvish, and Giant.
+
+---
+
+## Changeling
+
+- **Ability Scores.** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
+- **Size.** Small/Medium
+- **Speed.** 30 ft.
+
+***Creature Type.*** You are a Fey.
+
+***Size.*** You are Medium or Small. You choose the size when you select this race.
+
+***Changeling Instincts.*** Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
+
+***Shapechanger.*** As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+
+You stay in the new form until you use an action to revert to your true form or until you die.
+
+***Languages.*** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+
+---
+
 ## Aarakocra
 
 - **Ability Scores.** Dexterity +2; Wisdom +1
@@ -356,6 +562,50 @@ When you create a device, choose one of the following options:
 ***Talons.*** Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 ***Language.*** You can speak, read, and write Common, Aarakocra, and Auran.
+
+---
+
+## Genasi (Air)
+
+- **Ability Scores.** Constitution +2; Dexterity +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
+
+***Alignment.*** Independent and self-reliant, genasi tend toward a neutral alignment.
+
+***Size.*** Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.
+
+***Languages.*** You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
+
+***Unending Breath.*** You can hold your breath indefinitely while you're not incapacitated.
+
+***Mingle with the Wind.*** You can cast the *levitate* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.
+
+---
+
+## Genasi (Water)
+
+- **Ability Scores.** Constitution +2; Wisdom +1
+- **Size.** Medium
+- **Speed.** 30 ft., swim 30 ft.
+
+***Age.*** Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
+
+***Alignment.*** Independent and self-reliant, genasi tend toward a neutral alignment.
+
+***Size.*** Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.
+
+***Languages.*** You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
+
+***Acid Resistance.*** You have resistance to acid damage.
+
+***Amphibious.*** You can breathe air and water.
+
+***Swim.*** You have a swimming speed of 30 feet.
+
+***Call to the Wave.*** You know the *shape water* cantrip. When you reach 3rd level, you can cast the *create or destroy water* spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
 
 ---
 
@@ -401,167 +651,33 @@ After you use your breath weapon, you can't use it again until you complete a sh
 
 
 
-## Orc
+## Drow
 
-- **Ability Scores.** Strength +2; Constitution +1
+- **Ability Scores.** Dexterity +2; Charisma +1
 - **Size.** Medium
 - **Speed.** 30 ft.
 
-***Age.*** Orcs reach adulthood at age 12 and live up to 50 years.
+***Age.*** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
-***Size.*** Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium.
+***Size.*** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
 
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Superior Darkvision.*** Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-***Aggressive.*** As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started.
+***Keen Senses.*** You have proficiency in the Perception skill.
 
-***Primal Intuition.*** You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival.
+***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
-***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+***Trance.*** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
-***Languages.*** You can speak, read, and write Common and Orc.
+*If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.*
 
----
+***Languages.*** You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
 
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
-## Half-Orc
+***Drow Magic.*** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *faerie fire* spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the *darkness* spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
-- **Ability Scores.** Strength +2; Constitution +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
-
-***Size.*** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
-
-***Darkvision.*** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Menacing.*** You gain proficiency in the Intimidation skill.
-
-***Relentless Endurance.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
-
-***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
-
-***Languages.*** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
-
----
-
-
-## Goblin
-
-- **Ability Scores.** Dexterity +2; Constitution +1
-- **Size.** Small
-- **Speed.** 30 ft.
-
-***Age.*** Goblins reach adulthood at age 8 and live up to 60 years.
-
-***Size.*** Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
-
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Fury of the Small.*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.
-
-***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
-
-***Languages.*** You can speak, read, and write Common and Goblin.
-
----
-
-
-## Hobgoblin
-
-- **Ability Scores.** Constitution +2; Intelligence +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
-
-***Size.*** Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.
-
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Martial Training.*** You are proficient with two martial weapons of your choice and with light armor.
-
-***Saving Face.*** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
-
-***Languages.*** You can speak, read, and write Common and Goblin.
-
----
-
-
-
-## Bugbear
-
-- **Ability Scores.** Strength +2; Dexterity +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Bugbears reach adulthood at age 16 and live up to 80 years.
-
-***Size.*** Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium.
-
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
-
-***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-***Sneaky.*** You are proficient in the Stealth skill.
-
-***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
-
-***Languages.*** You can speak, read, and write Common and Goblin.
-
----
-
-## Goliath
-
-- **Ability Scores.** Strength +2; Constitution +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
-
-***Size.*** Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
-
-***Natural Athlete.*** You have proficiency in the Athletics skill.
-
-***Stone's Endurance.*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest.
-
-***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-***Mountain Born.*** You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet.
-
-***Languages.*** You can speak, read, and write Common and Giant.
-
----
-
-
-## Lizardfolk
-
-- **Ability Scores.** Constitution +2; Wisdom +1
-- **Size.** Medium
-- **Speed.** 30 ft., swim 30 ft.
-
-***Age.*** Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
-
-***Size.*** Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium.
-
-***Swim Speed.*** You have a swimming speed of 30 feet.
-
-***Bite.*** Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-***Cunning Artisan.*** As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a *shield*, a *club*, a *javelin*, or 1d4 *darts* or *blowgun needles*. To use this trait, you need a blade, such as a *dagger*, or appropriate artisan's tools, such as *leatherworker's tools*.
-
-***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.
-
-***Hunter's Lore.*** You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.
-
-***Natural Armor.*** You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
-
-***Hungry Jaws.*** In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest.
-
-***Languages.*** You can speak, read, and write Common and Draconic.
+***Drow Weapon Training.*** You have proficiency with *rapiers*, *shortswords*, and *hand crossbows*.
 
 ---
 
@@ -595,60 +711,7 @@ After you use your breath weapon, you can't use it again until you complete a sh
 
 ---
 
-## Drow
-
-- **Ability Scores.** Dexterity +2; Charisma +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
-
-***Size.*** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
-
-***Superior Darkvision.*** Accustomed to the depths of the Underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Keen Senses.*** You have proficiency in the Perception skill.
-
-***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
-
-***Trance.*** Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-
-*If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.*
-
-***Languages.*** You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
-
-***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
-
-***Drow Magic.*** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *faerie fire* spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the *darkness* spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
-
-***Drow Weapon Training.*** You have proficiency with *rapiers*, *shortswords*, and *hand crossbows*.
-
----
-
-
-
-## Half-Drow
-
-- **Ability Scores.** Charisma +2; Choose any other two unique +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
-
-***Size.*** Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
-
-***Darkvision.*** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-
-***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
-
-***Drow Magic.*** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *faerie fire* spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the *darkness* spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
-
-***Languages.*** You can speak, read, and write Common, Elvish, and one extra language of your choice.
-
----
-
-
-## Deep Gnome (Svirfneblin)
+## Svirfneblin (Deep Gnome)
 
 - **Ability Scores.** Intelligence +2; Dexterity +1
 - **Size.** Small
@@ -667,6 +730,26 @@ After you use your breath weapon, you can't use it again until you complete a sh
 ***Alignment.*** Svirfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others.
 
 ***Stone Camouflage.*** You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.
+
+---
+
+## Half-Drow
+
+- **Ability Scores.** Charisma +2; Choose any other two unique +1
+- **Size.** Medium
+- **Speed.** 30 ft.
+
+***Age.*** Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+
+***Size.*** Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+
+***Darkvision.*** Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+
+***Drow Magic.*** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *faerie fire* spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the *darkness* spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
+
+***Languages.*** You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
 ---
 
@@ -814,98 +897,3 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 ***Languages.*** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 ---
-
-## Firbolg
-
-- **Ability Scores.** Wisdom +2; Strength +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
-
-***Size.*** Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium.
-
-***Firbolg Magic.*** You can cast *detect magic* and *disguise self* with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of *disguise self*, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
-
-***Hidden Step.*** As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
-
-***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-***Speech of Beast and Leaf.*** You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
-
-***Languages.*** You can speak, read, and write Common, Elvish, and Giant.
-
----
-
-
-## Genasi (Air)
-
-- **Ability Scores.** Constitution +2; Dexterity +1
-- **Size.** Medium
-- **Speed.** 30 ft.
-
-***Age.*** Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
-
-***Alignment.*** Independent and self-reliant, genasi tend toward a neutral alignment.
-
-***Size.*** Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.
-
-***Languages.*** You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
-
-***Unending Breath.*** You can hold your breath indefinitely while you're not incapacitated.
-
-***Mingle with the Wind.*** You can cast the *levitate* spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell.
-
----
-
-
-
-
-## Genasi (Water)
-
-- **Ability Scores.** Constitution +2; Wisdom +1
-- **Size.** Medium
-- **Speed.** 30 ft., swim 30 ft.
-
-***Age.*** Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
-
-***Alignment.*** Independent and self-reliant, genasi tend toward a neutral alignment.
-
-***Size.*** Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium.
-
-***Languages.*** You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
-
-***Acid Resistance.*** You have resistance to acid damage.
-
-***Amphibious.*** You can breathe air and water.
-
-***Swim.*** You have a swimming speed of 30 feet.
-
-***Call to the Wave.*** You know the *shape water* cantrip. When you reach 3rd level, you can cast the *create or destroy water* spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
-
----
-
-
-
-## Changeling
-
-- **Ability Scores.** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
-- **Size.** Small/Medium
-- **Speed.** 30 ft.
-
-***Creature Type.*** You are a Fey.
-
-***Size.*** You are Medium or Small. You choose the size when you select this race.
-
-***Changeling Instincts.*** Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
-
-***Shapechanger.*** As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
-
-You stay in the new form until you use an action to revert to your true form or until you die.
-
-***Languages.*** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
-
----
-
-
-

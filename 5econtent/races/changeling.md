@@ -18,5 +18,3 @@ You stay in the new form until you use an action to revert to your true form or 
 
 ---
 
-
-

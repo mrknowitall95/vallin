@@ -17,4 +17,3 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 ***Languages.*** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 ---
-

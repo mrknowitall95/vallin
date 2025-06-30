@@ -22,33 +22,41 @@
 
 [Tiefling](./5econtent/races/tiefling.md)
 
-[Aasimar](./5econtent/races/aasimar.md)
-
-[Aarakocra](./5econtent/races/aarakocra.md)
-
-[Dragonborn](./5econtent/races/dragonborn.md)
-
 [Orc](./5econtent/races/orc.md)
 
-[Half-Orc](./5econtent/races/halforc.md)
+[Aasimar](./5econtent/races/aasimar.md)
 
 [Goblin](./5econtent/races/goblin.md)
 
-[Hobgoblin](./5econtent/races/hobgoblin.md)
+[Goliath](./5econtent/races/goliath.md)
 
 [Bugbear](./5econtent/races/bugbear.md)
 
-[Goliath](./5econtent/races/goliath.md)
+[Half-Orc](./5econtent/races/halforc.md)
+
+[Hobgoblin](./5econtent/races/hobgoblin.md)
 
 [Lizardfolk](./5econtent/races/lizardfolk.md)
 
-[Duergar](./5econtent/races/duergar.md)
+[Firbolg](./5econtent/races/firbolg.md)
+
+[Changeling](./5econtent/races/changeling.md)
+
+[Aarakocra](./5econtent/races/aarakocra.md)
+
+[Genasi (Air)](./5econtent/races/genasiair.md)
+
+[Genasi (Water)](./5econtent/races/genasiwater.md)
+
+[Dragonborn](./5econtent/races/dragonborn.md)
 
 [Drow](./5econtent/races/drow.md)
 
-[Half-Drow](./5econtent/races/halfdrow.md)
+[Duergar](./5econtent/races/duergar.md)
 
-[Deep Gnome (Svirfneblin)](./5econtent/races/deepgnomesvirfneblin.md)
+[Svirfneblin (Deep Gnome)](./5econtent/races/svirfneblindeepgnome.md)
+
+[Half-Drow](./5econtent/races/halfdrow.md)
 
 [Shadar-Kai](./5econtent/races/shadarkai.md)
 
@@ -59,12 +67,4 @@
 [Satyr](./5econtent/races/satyr.md)
 
 [Fairy](./5econtent/races/fairy.md)
-
-[Firbolg](./5econtent/races/firbolg.md)
-
-[Genasi (Air)](./5econtent/races/genasiair.md)
-
-[Genasi (Water)](./5econtent/races/genasiwater.md)
-
-[Changeling](./5econtent/races/changeling.md)
 
