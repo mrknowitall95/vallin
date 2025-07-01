@@ -8,7 +8,32 @@
 
 **Magic trait:** Normal
 
-**Ethereal curtains:** [Metallic silver](./materialplane.md), [Opal white](./planeoffaerie.md), [Silver/gray](./planeofshadow.md), [-](./etherealplane.md), [Swirling grey](./astralplane.md), [Flickering white/blue](./planeofair.md), [Flickering blue/green](./planeofwater.md), [Flickering red/green](./planeoffire.md), [Flickering grey/brown](./planeofearth.md), [White](./clockworknirvanaofmechanus.md), [Pale yellow](./peaceablekingdomsofarcadia.md), [Brilliant yellow](./sevenheavensofmountcelestia.md), [Dark yellow](./twinparadisesofbytopia.md), [Dark green](./blessedfieldsofelysium.md), [Emerald green](./wildernessofthebeastlands.md), [Bright blue](./olympiangladesofarborea.md), [Purple](./heroicdomainsofysgard.md), [Swirling black](./ever-changingchaosoflimbo.md), [Crimson](./windsweptdepthsofpandemonium.md), [Swirling red](./infinitelayersoftheabyss.md), [Grey-green](./tarteriandepthsofcarceri.md), [Dark red](./graywasteofhades.md), [Bright red](./bleaketernityofgehenna.md), [Red and black](./ninehellsofbaator.md), [Metallic red](./infinitebattlefieldofacheron.md)
+**Ethereal curtains:** 
+
+[Metallic silver](./materialplane.md)<br>
+[Opal white](./planeoffaerie.md)<br>
+[Silver/gray](./planeofshadow.md)<br>
+[Swirling grey](./astralplane.md)<br>
+[Flickering white/blue](./planeofair.md)<br>
+[Flickering blue/green](./planeofwater.md)<br>
+[Flickering red/green](./planeoffire.md)<br>
+[Flickering grey/brown](./planeofearth.md)<br>
+[White](./clockworknirvanaofmechanus.md)<br>
+[Pale yellow](./peaceablekingdomsofarcadia.md)<br>
+[Brilliant yellow](./sevenheavensofmountcelestia.md)<br>
+[Dark yellow](./twinparadisesofbytopia.md)<br>
+[Dark green](./blessedfieldsofelysium.md)<br>
+[Emerald green](./wildernessofthebeastlands.md)<br>
+[Bright blue](./olympiangladesofarborea.md)<br>
+[Purple](./heroicdomainsofysgard.md)<br>
+[Swirling black](./ever-changingchaosoflimbo.md)<br>
+[Crimson](./windsweptdepthsofpandemonium.md)<br>
+[Swirling red](./infinitelayersoftheabyss.md)<br>
+[Grey-green](./tarteriandepthsofcarceri.md)<br>
+[Dark red](./graywasteofhades.md)<br>
+[Bright red](./bleaketernityofgehenna.md)<br>
+[Red and black](./ninehellsofbaator.md)<br>
+[Metallic red](./infinitebattlefieldofacheron.md)<br>
 
 **Astral pools:** White
 

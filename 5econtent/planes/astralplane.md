@@ -10,7 +10,32 @@
 
 **Ethereal curtain:** Swirling grey
 
-**Astral pools:** [Silver](./materialplane.md), [Emerald](./planeoffaerie.md), [Black](./planeofshadow.md), [White](./etherealplane.md), [-](./astralplane.md), [Pale blue](./planeofair.md), [Dark blue](./planeofwater.md), [Fire emerald](./planeoffire.md), [Moss granite](./planeofearth.md), [Diamond](./clockworknirvanaofmechanus.md), [Saffron](./peaceablekingdomsofarcadia.md), [Gold](./sevenheavensofmountcelestia.md), [Amber](./twinparadisesofbytopia.md), [Opal](./blessedfieldsofelysium.md), [Emerald](./wildernessofthebeastlands.md), [Sapphire](./olympiangladesofarborea.md), [Indigo](./heroicdomainsofysgard.md), [Jet](./ever-changingchaosoflimbo.md), [Magenta](./windsweptdepthsofpandemonium.md), [Amethyst](./infinitelayersoftheabyss.md), [Olive or Red](./tarteriandepthsofcarceri.md), [Rust](./graywasteofhades.md), [Russet](./bleaketernityofgehenna.md), [Ruby](./ninehellsofbaator.md), [Flame](./infinitebattlefieldofacheron.md)
+**Astral pools:** 
+
+[Silver](./materialplane.md)<br>
+[Emerald](./planeoffaerie.md)<br>
+[Black](./planeofshadow.md)<br>
+[White](./etherealplane.md)<br>
+[Pale blue](./planeofair.md)<br>
+[Dark blue](./planeofwater.md)<br>
+[Fire emerald](./planeoffire.md)<br>
+[Moss granite](./planeofearth.md)<br>
+[Diamond](./clockworknirvanaofmechanus.md)<br>
+[Saffron](./peaceablekingdomsofarcadia.md)<br>
+[Gold](./sevenheavensofmountcelestia.md)<br>
+[Amber](./twinparadisesofbytopia.md)<br>
+[Opal](./blessedfieldsofelysium.md)<br>
+[Emerald](./wildernessofthebeastlands.md)<br>
+[Sapphire](./olympiangladesofarborea.md)<br>
+[Indigo](./heroicdomainsofysgard.md)<br>
+[Jet](./ever-changingchaosoflimbo.md)<br>
+[Magenta](./windsweptdepthsofpandemonium.md)<br>
+[Amethyst](./infinitelayersoftheabyss.md)<br>
+[Olive or Red](./tarteriandepthsofcarceri.md)<br>
+[Rust](./graywasteofhades.md)<br>
+[Russet](./bleaketernityofgehenna.md)<br>
+[Ruby](./ninehellsofbaator.md)<br>
+[Flame](./infinitebattlefieldofacheron.md)<br>
 
 **Tuning fork:** Quartz, B
 
